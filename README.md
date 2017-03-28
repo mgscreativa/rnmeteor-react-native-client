@@ -1,0 +1,1 @@
+rnmeteor-react-native-client
