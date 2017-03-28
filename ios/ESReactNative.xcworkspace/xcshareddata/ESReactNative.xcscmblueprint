@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B0120FF9DAD0E1409048469831793AB3C9CABF83",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E9E1D59C846F55182548CD1CDDD1D1CF30EFA473" : 9223372036854775807,
+    "B0120FF9DAD0E1409048469831793AB3C9CABF83" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0D262F1B-68A4-4F43-A952-111218202213",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E9E1D59C846F55182548CD1CDDD1D1CF30EFA473" : "",
+    "B0120FF9DAD0E1409048469831793AB3C9CABF83" : "learn-handlebarlabs\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ESReactNative",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "react-native-client\/ios\/ESReactNative.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/m.briglia@git.mgscreativa.com.ar\/m.briglia\/learn-handlebarlabs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B0120FF9DAD0E1409048469831793AB3C9CABF83"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/m.briglia@git.mgscreativa.com.ar\/m.briglia\/cursos-react-native.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E9E1D59C846F55182548CD1CDDD1D1CF30EFA473"
+    }
+  ]
+}
