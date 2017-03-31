@@ -121,7 +121,7 @@ class LocationDetails extends Component {
 }
 
 LocationDetails.propTypes = {
-  location: PropTypes.object.required,
+  location: PropTypes.object.isRequired,
   activityReady: PropTypes.bool,
   navigator: PropTypes.object,
   navigation: PropTypes.object,
